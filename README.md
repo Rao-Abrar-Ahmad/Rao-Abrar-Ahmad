@@ -1,6 +1,6 @@
 # Hello, I'm Rao Abrar Ahmad 👋
 
-## Front-End Developer | React & Next.js Specialist
+## Front-End Developer | React & Next.js
 
 Welcome to my GitHub profile! I'm a passionate front-end developer with a Bachelor's degree in Computer Science and over 3 years of experience in crafting dynamic, responsive websites and web applications. Specializing in React and Next.js, I've developed a keen eye for detail and a strong commitment to delivering pixel-perfect designs and intuitive user experiences.
 
