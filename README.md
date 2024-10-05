@@ -2,7 +2,7 @@
 
 ## Front-End Developer | React & Next.js
 
-Welcome to my GitHub profile! I'm a passionate front-end developer with a Bachelor's degree in Computer Science and over 3 years of experience in crafting dynamic, responsive websites and web applications. Specializing in React and Next.js, I've developed a keen eye for detail and a strong commitment to delivering pixel-perfect designs and intuitive user experiences.
+Front-end developer with a talent for crafting awesome UIs. I focus on delivering exceptional user experiences and ensuring seamless design integration. I am dedicated to making backend developers' lives easier.
 
 ### 🛠 Tech Stack
 - **Languages**: HTML, CSS, JavaScript (ES6+)
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with a Bachel
 - **SEO & Performance Optimization**: On-page SEO, Technical SEO, Speed Optimization
 
 ### 💼 Experience
-Over the years, I've successfully built and launched over 100+ Shopify sites, several WordPress websites, and a handful of custom React, Vue.js, and Next.js projects. My work spans diverse industries, always focusing on delivering high-quality, SEO-friendly, and performance-optimized web solutions.
+Over the years, I've successfully built and designed over 100+ Shopify sites, several WordPress websites, and a handful of custom React, Vue.js, and Next.js projects. My work spans diverse industries, always focusing on delivering high-quality, SEO-friendly, and performance-optimized web solutions.
 
 ### 🚀 What I Do
 - **UI/UX to Code**: Transforming Figma and Adobe XD designs into fully functional, responsive websites.
@@ -25,8 +25,8 @@ Over the years, I've successfully built and launched over 100+ Shopify sites, se
 - Diving deeper into modern CSS frameworks like Tailwind CSS for more efficient, utility-first styling.
 
 ### ✨ Let's Connect
-If you're interested in collaborating on a project or just want to connect, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/rao-abrar-ahmad/) or drop me an email at [raoabrar629@gmail.com](mailto:raoabrar629@gmail.com).
+If you're interested in collaborating on a project or want to connect, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/rao-abrar-ahmad/) or drop me an email at [raoabrar629@gmail.com](mailto:raoabrar629@gmail.com).
 
 ---
 
-Thank you for visiting my profile! Explore my repositories to see my work in action. Let's create something amazing together.
+Let's create something amazing together.
