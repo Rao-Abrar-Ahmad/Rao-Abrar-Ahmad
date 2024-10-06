@@ -4,12 +4,7 @@
 
 Front-end developer with a talent for crafting awesome UIs. I focus on delivering exceptional user experiences and ensuring seamless design integration. I am dedicated to making backend developers' lives easier.
 
-### 🛠 Tech Stack
-- **Languages**: HTML, CSS, JavaScript (ES6+)
-- **Frameworks/Libraries**: React.js, Next.js, Redux, Tailwind CSS, Bootstrap
-- **Tools & Platforms**: Shopify, WordPress, Figma, Adobe XD, Vercel, Netlify, Cloudflare
-- **Version Control**: Git & GitHub
-- **SEO & Performance Optimization**: On-page SEO, Technical SEO, Speed Optimization
+- **Frameworks/Libraries**: React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Shopify
 
 ### 💼 Experience
 Over the years, I've successfully built and designed over 100+ Shopify sites, several WordPress websites, and a handful of custom React, Vue.js, and Next.js projects. My work spans diverse industries, always focusing on delivering high-quality, SEO-friendly, and performance-optimized web solutions.
